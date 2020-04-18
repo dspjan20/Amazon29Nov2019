@@ -19,7 +19,7 @@ public class Conditions {
 		amount = scanner.nextDouble();
 		
 		System.out.println(">> You Eneterd: \u20b9"+amount);
-		
+		scanner.close();
 		/*
 		// if/else
 		if(amount>=500) {
